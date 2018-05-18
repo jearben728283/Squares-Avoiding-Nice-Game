@@ -1,0 +1,1 @@
+# Squares-Avoiding-Nice-Game
